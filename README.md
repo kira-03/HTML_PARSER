@@ -1,2 +1,13 @@
 # HTML_PARSER
-A robust HTML parser implemented in JFLAP utilizing Pushdown Automaton (PDA) and Turing Machine principles, facilitating accurate and efficient extraction of web page data. It will handle diverse HTML structures, nesting, and error scenarios while offering clear error messages for web developers and data analysts.
+
+➔ Developed an HTML parser utilizing Pushdown Automaton (PDA) and Turing Machine principles.
+
+➔ Ensured accurate extraction of data from web pages by handling diverse HTML structures and nesting.
+
+➔ Provided clear error messages for developers and data analysts, facilitating error resolution.
+
+➔ Validated HTML tags to ensure compliance with standards and enhance web development workflows.
+
+➔ Designed for efficiency, offering high-performance parsing without compromising accuracy.
+
+➔ Demonstrated expertise in automata theory and web parsing techniques, contributing to streamlined web development processes.
